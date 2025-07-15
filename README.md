@@ -27,7 +27,7 @@ go build -o govidcompressor
 ./govidcompressor -input ./videos -output ./compressed
 ```
 
-## Usage
+## Usage(not available currently woking on them)
 
 ```bash
 govidcompressor [options]
